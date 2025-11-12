@@ -1,0 +1,11 @@
+{
+  "offline": true,
+  "include_details": true,
+  "timeout": 20,
+  "retries": 2,
+  "proxy": {
+    "http": "http://user:pass@host:port",
+    "https": "http://user:pass@host:port"
+  },
+  "timezone": "America/New_York"
+}
