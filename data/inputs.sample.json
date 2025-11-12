@@ -1,0 +1,11 @@
+{
+  "search_url": "https://www.upwork.com/nx/jobs/search/?sort=recency&q=data%20engineer",
+  "query": "data engineer",
+  "max_items": 15,
+  "include_details": true,
+  "offline": true,
+  "timezone": "America/New_York",
+  "timeout": 20,
+  "retries": 2,
+  "proxy": null
+}
